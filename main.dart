@@ -1,7 +1,7 @@
 // Main function
 
 // Example
-
+/*
 void main(List<String> arguments){
   print('Hello World!');
   if(arguments.isNotEmpty){
@@ -227,3 +227,4 @@ var createCounter = (){
     count+= 1;
   };
 };
+*/
