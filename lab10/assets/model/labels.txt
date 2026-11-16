@@ -1,0 +1,6 @@
+0 me with glasses
+1 me without glasses
+2 my phone
+3 my glasses
+4 glass holder
+5 empty room
